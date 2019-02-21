@@ -1,0 +1,23 @@
+{
+  "name": "tomodomo/block-text-accordion",
+  "description": "Simple text accordion for Gutenberg",
+  "type": "wordpress-plugin",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Tomodomo",
+      "email": "hello@tomodomo.co"
+    }
+  ],
+  "config": {
+    "sort-packages": true
+  },
+  "extra": {
+    "installer-name": "tomodomo-block-text-accordion"
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "require": {
+    "php": "^7.0"
+  }
+}
